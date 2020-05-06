@@ -10,3 +10,4 @@
     width="300"
     height="250"
     type="image/svg+xml">
+![](svg_histogram.svg)
