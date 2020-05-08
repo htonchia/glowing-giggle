@@ -7,14 +7,12 @@
 </svg>
 
 <p>Mouseover the rect to see the tooltip on supporting browsers.</p>
-![](test.svg)
-<object data="test.svg"
-    width="300"
-    height="250"
-    type="image/svg+xml">
+![](test.html)
+
 
 <object data="svg_histogram.svg"
     width="300"
     height="250"
     type="image/svg+xml">
+
 ![](svg_histogram.svg)
