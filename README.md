@@ -1,6 +1,26 @@
+var marked = require('marked');
+var renderer = new marked.Renderer();
+
+renderer.heading = function (text, level) {
+  var escapedText = text.toLowerCase().replace(/[^\w]+/g, '-');
+
+  return '<h' + level + '><a name="' +
+                escapedText +
+                 '" class="anchor" href="#' +
+                 escapedText +
+                 '"><span class="header-link"></span></a>' +
+                  text + '</h' + level + '>';
+},
+
+console.log(marked('# heading+', { renderer: renderer }));
+
 # glowing-giggle
 
 #work in progress
+
+
+
+
 <svg viewBox="0 0 20 10" xmlns="http://www.w3.org/2000/svg">
   <circle cx="5" cy="5" r="4">
     <title>I'm a circle</title>
