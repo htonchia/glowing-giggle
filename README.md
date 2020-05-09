@@ -4,7 +4,7 @@
 
 #work in progress
 
-<p onclick="alert('You have clicked me.')"> click me </p>
+
 
 
 
