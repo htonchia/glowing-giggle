@@ -23,6 +23,11 @@ print("hello world!")
 
 </p>
 </details>
+You need to open the interactive [image](//raw.githubusercontent.com/htonchia/glowing-giggle/master/Images/ca_cartedetail_surhosmar_au_2020-04-27.svg) to read the values.
+
+
+![](Images/ca_cartedetail_surhosmar_au_2020-04-27.svg)
+
 
 You need to open the [image](//raw.githubusercontent.com/htonchia/glowing-giggle/master/dens_surhosmarcom92_.svg) in your browser to read the commune name by pointing it with the mouse.
 
