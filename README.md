@@ -8,7 +8,7 @@
 [testhtml](https://htmlpreview.github.io/?https://github.com/htonchia/glowing-giggle/blob/master/test.html)
 
 
-![svgc](Images/testclick.svg)
+![svgc](https://raw.githubusercontent.com/htonchia/glowing-giggle/master/Images/testclick.svg)
 
 
 ## collapsible markdown?
