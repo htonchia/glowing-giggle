@@ -10,7 +10,7 @@
 
 ![svgc](https://raw.githubusercontent.com/htonchia/glowing-giggle/master/Images/testclick.svg)
 
-![](Images/circulation.mp4)
+[![Watch the video](https://github.com/htonchia/covid-19-France/blob/master/Images/ca_carte_indicateur_cir.png)](https://youtu.be/LZTVl5sjz58)
 
 <video width="400" controls>
   <source src="Images/circulation.mp4">
