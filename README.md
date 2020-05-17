@@ -10,7 +10,13 @@
 
 ![svgc](https://raw.githubusercontent.com/htonchia/glowing-giggle/master/Images/testclick.svg)
 
-![video](Images/circulation.mp4)
+![](Images/circulation.mp4)
+
+<video width="400" controls>
+  <source src="Images/circulation.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
 
 
 ## collapsible markdown?
